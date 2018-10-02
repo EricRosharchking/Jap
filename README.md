@@ -6,4 +6,5 @@ This is a self-teaching tool for people who want to learn Japanese. I am thinkin
   use the words correctly, I think I will put it in the second phase.
 
 The application, hopefully, will be an executable programme on windows first and transfer to android afterwards. I am still in the designing phase.
-That's all.
+On a second thought, I decided to build it as a web application first. With angular as front end and java as back end. I would use Spring and Hibernate to help me build it.
+Functional requirement will come later, and will be updated as the development is in progress. That's all.
