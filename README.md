@@ -28,3 +28,10 @@ Update Dec 21, 2018
 <h3>[Two]</h3>
       
    1>. The app will keep track of the Hiragana symbols and Japanese words that the user answered wrongly. There will be a Review Your Mistakes function.
+   
+   2>. There will be three types of mistakes
+      a. mistakes that appear only once.
+      b. mistakes that appear two or three times
+      c. mistakes that appear more than three times.
+      
+   3>. The app will make all the mistakes will appear twice. If the p
