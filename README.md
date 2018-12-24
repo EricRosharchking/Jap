@@ -17,14 +17,14 @@ Update Dec 21, 2018
   
     [One]
     
-      1>. The webpage will display a Hiragana symbol, the user will type the romaji and type Enter (or click) to submit the answer. If the answer is correct, it will be displayed in Green; if the answer is wrong, it will be displayed in Red and the correct one will appear in Green.
+      1). The webpage will display a Hiragana symbol, the user will type the romaji and type Enter (or click) to submit the answer. If the answer is correct, it will be displayed in Green; if the answer is wrong, it will be displayed in Red and the correct one will appear in Green.
       
-      2>. The webpage will display a Hiragana symbol, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
+      2). The webpage will display a Hiragana symbol, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
       
-      3>. The webpage will display a Japanese word in Hiragana, the user will type the romaji and type Enter (or click) to submit the answer. If the answer is correct, it will be displayed in Green; if the answer is wrong, it will be displayed in Red and the correct one will appear in Green.
+      3). The webpage will display a Japanese word in Hiragana, the user will type the romaji and type Enter (or click) to submit the answer. If the answer is correct, it will be displayed in Green; if the answer is wrong, it will be displayed in Red and the correct one will appear in Green.
       
-      4>. The webpage will display a Japanese word in Hiragana, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
+      4). The webpage will display a Japanese word in Hiragana, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
     
     [Two]
       
-      1>. The app will keep track of the Hiragana symbols and Japanese words that the user answered wrongly. There will be a Review Your Mistakes function.
+      1). The app will keep track of the Hiragana symbols and Japanese words that the user answered wrongly. There will be a Review Your Mistakes function.
