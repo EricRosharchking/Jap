@@ -15,7 +15,7 @@ Update Dec 21, 2018
 
   There are two types of Japanese syllabaries, Hiragana (平仮名, ひらがな) and Katakana(片仮名, かたかな, カタカナ). There is also kanji (Chinese characters, what is used in day to day life), romaji (or romanji, basics for Japanese input in computers, also what I will use on the app). I will do Hiragana first.
   
-    [One]
+    \[One\]
     
       1). The webpage will display a Hiragana symbol, the user will type the romaji and type Enter (or click) to submit the answer. If the answer is correct, it will be displayed in Green; if the answer is wrong, it will be displayed in Red and the correct one will appear in Green.
       
@@ -25,6 +25,6 @@ Update Dec 21, 2018
       
       4). The webpage will display a Japanese word in Hiragana, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
     
-    [Two]
+    \[Two\]
       
       1). The app will keep track of the Hiragana symbols and Japanese words that the user answered wrongly. There will be a Review Your Mistakes function.
