@@ -25,6 +25,7 @@ Update Dec 21, 2018
       
    4>. The webpage will display a Japanese word in Hiragana, and several (very likely three) romaji choices for users to select. After the user clicks an option, the right answer will be displayed in Green and the wrong answer will be displayed in Red.
     
+Updated 26 Dec, 2018
 <h3>[Two]</h3>
       
    1>. The app will keep track of the Hiragana symbols and Japanese words that the user answered wrongly. There will be a Review Your Mistakes function.
@@ -34,4 +35,17 @@ Update Dec 21, 2018
       b. mistakes that appear two or three times
       c. mistakes that appear more than three times.
       
-   3>. The app will make all the mistakes will appear twice. If the p
+   3>. The app will make all the mistakes appear multiple times. If the mistakes do not persist, it will be removed from the mistakes category, and added to the previous mistakes category. If they do, they will be put into the three types mentioned above.
+   
+   4>. The app will prompt the user for mistakes they made before multiple times. The user has to get the correct answer everytime for the mistake to be marked as "previous".
+   
+   <h3>[Three]</h3>
+   
+   1>. The app will also make the correct answers reappear. It will keep track of the correct answers and add to the "times of correct choices". 
+   
+   2>. Every now and then (over a defined period of time), the app will show an analysis chart to the user. It will show the part where the user performed the best and worst. Will a pivot chart of how well the user commands each of the Hiragana (Katakana). 
+   
+   
+   3>. The higher the correctness level, the less likely the symbols will reappear. The lower the correctness level, the more likely the symbols will reappear. The choices will the highest correctness level will also reappear; but it will be set to the lowest chance. 
+   
+   4>. In the end, the aim is to make sure the user(learner) know all Hiragana (Katakana) symbols, with the same level of familiarity. 
